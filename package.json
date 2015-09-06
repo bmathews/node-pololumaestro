@@ -13,7 +13,7 @@
     "url": "git://github.com/omcaree/node-pololumaestro.git"
   },
   "dependencies": {
-    "serialport-electron": "^1.7",
+    "serialport-electron": "1.7.4-electron-0.30.4",
     "winston": "^0.8",
     "async": "^0.9"
   },
